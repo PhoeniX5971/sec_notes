@@ -1,3 +1,5 @@
+# Operating System Fundamentals
+
 ## Quick Note
 Sorry to all my windows friends, but for now I will be skipping some of this part because:
 - I am not a windows user.

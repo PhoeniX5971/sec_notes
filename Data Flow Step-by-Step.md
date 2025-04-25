@@ -1,3 +1,4 @@
+# Data Flow Step-by-Step
 ## Scenario: Host A (192.168.1.2) → Host B (10.0.0.5)
 
 ### Step 1: L3 Check
@@ -54,10 +55,11 @@ Host A → Switch (CAM table lookup) → Router (Routing table) → Internet →
 
 ## Key Tables Summary
 
-|Table|Location|Command to View|Purpose|
-|---|---|---|---|
-|Routing Table|Hosts/Routers|`netstat -rn` (Linux)|Path selection|
-|ARP Cache|Hosts|`arp -a`|IP → MAC mappings|
-|CAM Table|Switches|`show mac-address-table` (Cisco)|MAC → Port mappings|
-|NAT Table|Routers|`show ip nat translations`|IP/Port translation|
+| Table         | Location      | Command to View                  | Purpose             |
+| ------------- | ------------- | -------------------------------- | ------------------- |
+| Routing Table | Hosts/Routers | `netstat -rn` (Linux)            | Path selection      |
+| ARP Cache     | Hosts         | `arp -a`                         | IP → MAC mappings   |
+| CAM Table     | Switches      | `show mac-address-table` (Cisco) | MAC → Port mappings |
+| NAT Table     | Routers       | `show ip nat translations`       | IP/Port translation |
+
 ![[tmp_network_traffic_visial.svg]]

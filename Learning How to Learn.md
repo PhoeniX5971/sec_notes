@@ -1,3 +1,5 @@
+# Learning How to Learn
+
 ## Core Principles  
 1. **Meta-Learning > Rote Learning**  
    - Focus on *how* to learn before *what* to learn.  

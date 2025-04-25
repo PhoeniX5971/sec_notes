@@ -1,4 +1,4 @@
-
+# OSI Model Explained
 ## Layer 7: Application Layer
 - **Function**: Human-network interface (HTTP, FTP, SMTP)
 - **Attack**: 

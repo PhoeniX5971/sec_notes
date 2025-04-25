@@ -1,3 +1,4 @@
+# Hosts and IP Addresses
 - **Host**: Any device with an IP (PC, server, IoT).  
 - **IP Address**:  
   - IPv4: `192.168.1.1` (32-bit, e.g., private ranges `10.0.0.0/8`, `172.16.0.0/12`)  
