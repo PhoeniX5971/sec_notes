@@ -31,7 +31,7 @@
 - Waybackurls
 ```sh
 waybackurls > urls.txt
-sed -E `s#^(https://)?([^/]+).*#\2#` urls.txt | unique
+sed -E 's#^(https?://)?([^/]+).*#\2#' urls.txt | sort -u
 ```
 - Subfinder
 	- `subfinder -d facebook.com`
