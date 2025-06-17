@@ -15,7 +15,7 @@
 [[Zero Trust]]
 [[Authentication]]
 [[Data Origin Authentication]]
-[[Authorization]]
+[[01_intro_notes/Authorization]]
 [[Non-Repudiation]]
 [[Classes of Attacks]]
 
