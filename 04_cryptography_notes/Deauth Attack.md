@@ -1,6 +1,6 @@
 # Deauth Attack
 
-Send death frames for the user.
+Send deauth frames for the user.
 
 ---
 

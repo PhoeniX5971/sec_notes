@@ -60,7 +60,7 @@ WannaCry Attack.
 
 # Vulnerability Lifecycle
 
-![](file:///home/phoenix/semsec/sec_notes/intro_notes/vuln-LC.png)
+![[vuln-LC.png]]
 
 > Depending on who finds the vulnerability and what they might do with it, the lifecycle of the vulnerability might take different directions.
 
@@ -86,13 +86,13 @@ A public database of known security flaws.
 
 ## Phases of Penetration Testing
 
-![](file:///home/phoenix/semsec/sec_notes/intro_notes/pentesting_phases.png)
+![[pentesting_phases.png]]
 
 - - -
 
 # Bug Hunting
 
-![](file:///home/phoenix/semsec/sec_notes/intro_notes/bughunting_phases.png)
+![[bughunting_phases.png]]
 
 ---
 
@@ -109,7 +109,7 @@ A public database of known security flaws.
 
 # Red and Blue
 
-**Red** team, attacking side. They are a team selected by the company, their job is to find a way to hack into the organization, and report their findings to make the organization more secure.
+**Red** team, attacking side. They are a team selected by a company, their job is to find a way to hack into the organization, and report their findings to make the organization more secure.
 
 **Blue** team, defending side. Their job is to defend the organization and block/patch any exploit. They are tasked with designing the systems of the organization in a secured way, or securing an already made system. They are also supposed to handle attacks properly.
 
@@ -121,7 +121,7 @@ A public database of known security flaws.
 
 ## Risk Matrix
 
-![](file:///home/phoenix/semsec/sec_notes/intro_notes/risk_assessment_matrix.png)
+![[risk_assessment_matrix.png]]
 
 ---
 

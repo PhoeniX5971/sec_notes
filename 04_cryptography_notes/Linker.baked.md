@@ -38,7 +38,7 @@ int main() {
 
 Encoding and Decoding differ from Encryption and Decryption.
 
-Encoding puts a data and labels it in a know format.
+Encoding puts a data and labels it in a known format.
 Decoding gets the data back from that known format.
 
 Encryption is a type of encoding, but is a lot more complex, and uses a key to "encrypt" the data where the data would be encoded with added variability to secure it.
@@ -101,7 +101,7 @@ Those blocks can be differentiated and ordered, thus u might fall into known pla
 CBC Chaining blocks together.
 Not parallel, order not shown.
 
-Pick IV, xor it with p1 get c1, xor c1 with p2 get c2, xor c2 with p3...
+Pick IV, xor it with p1 and encrypt with key get c1, encrypt c1 with p2 using key get c2...
 
 ---
 To fill in shorter ones u can add block padding
@@ -216,10 +216,9 @@ ON TLS
 
 # Deauth Attack
 
-Send death frames for the user.
+Send deauth frames for the user.
 
 ---
-
 
 # Some Wireless Attacks
 ## WEP hacking

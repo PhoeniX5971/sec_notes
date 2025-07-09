@@ -132,7 +132,7 @@ Requires:
 - Time sync between server and client
 - Window time slot
 
-> Messing with the time can suffer different attacks, like DoS by changing the time, or even guessing the password by moving the time forwards and storing the generated OTP.
+> Messing with the time can allow different attacks, like DoS by changing the time, or even guessing the password by moving the time forwards and storing the generated OTP.
 
 ---
 

@@ -46,7 +46,7 @@
 - **Defense**: Firewalls, IDS, and encryption operate at specific network layers (OSI Model).  
 - **Hacker POV**: You must understand traffic flow to exploit/protect systems.  
 
-## Core Concepts (Linked)  
+## Core Concepts 
 1. # Hosts and IP Addresses
 - **Host**: Any device with an IP (PC, server, IoT).  
 - **IP Address**:  
@@ -59,7 +59,7 @@
 3. OSI Model Explained (Layer-by-Layer)
 4. Protocols Examples → DNS, DHCP, HTTP/S, etc.  
 5. Data Flow Step-by-Step (Interview Prep)
-## Subnetting Guide (Linked)
+## Subnetting Guide
 # Subnetting Guide
 
 ## What is Subnetting?
@@ -646,8 +646,8 @@ Quick list:
 - DELETE
 - etc.
 ## APKs
-![](file:///home/phoenix/semsec/cybersec_pre_notes/Pasted%20image%2020250430221728.png)
-![](file:///home/phoenix/semsec/cybersec_pre_notes/Pasted%20image%2020250430221759.png)
+![](file:///home/phoenix/semsec/sec_notes/00_cybersec_pre_notes/Pasted%20image%2020250430221728.png)
+![](file:///home/phoenix/semsec/sec_notes/00_cybersec_pre_notes/Pasted%20image%2020250430221759.png)
 ## Tasks
 # Last Module Tasks
 

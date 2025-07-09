@@ -30,7 +30,7 @@ A network provides it's services through ports.
 - Port 25 - SMTP (Simple Mail Transfer Protocol)
 - Port 53 - DNS (Domain Name Server)
 - Port 80 - HTTP (Hyper Text Transfer Protocol)
-- Port 443 - HTTPS
+- Port 443 - HTTPS (Hyper Text Transfer Secure)
 
 **Why Care**?
 Open ports are like unlocked entry points to a service.
@@ -362,7 +362,7 @@ ggs, you alr a root user. xD
 
 ## sudo -l
 
-whenever we can get into an interactive shell simple do !sh we got into a root shell.
+whenever we can get into an interactive shell simply do !sh we got into a root shell.
 
 ---
 

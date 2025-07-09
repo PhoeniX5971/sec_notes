@@ -12,7 +12,7 @@ Those blocks can be differentiated and ordered, thus u might fall into known pla
 CBC Chaining blocks together.
 Not parallel, order not shown.
 
-Pick IV, xor it with p1 get c1, xor c1 with p2 get c2, xor c2 with p3...
+Pick IV, xor it with p1 and encrypt with key get c1, encrypt c1 with p2 using key get c2...
 
 ---
 To fill in shorter ones u can add block padding

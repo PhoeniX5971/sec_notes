@@ -84,7 +84,7 @@ Typically focus on:
 
 We should gather as much domains as possible to have a larger attack surface.
 
-Each root domains boosts the chance of finding a vulnerability by 4 times.
+Each root domain boosts the chance of finding a vulnerability by 4 times.
 
 - **Crunchbase**
 

@@ -101,7 +101,7 @@ python -m http.server 8080
 You have to get the payload and run it on windows. Now you have complete access to the windows machine.
 
 ---
-## Enumreation
+## Enumeration
 
 ```bash
 hostname

@@ -29,7 +29,7 @@ ggs, you alr a root user. xD
 
 ## sudo -l
 
-whenever we can get into an interactive shell simple do !sh we got into a root shell.
+whenever we can get into an interactive shell simply do !sh we got into a root shell.
 
 ---
 
